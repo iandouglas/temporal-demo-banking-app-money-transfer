@@ -65,7 +65,7 @@ def build_client_connect_config(
 
     # Prefer API key auth
     if api_key:
-        print(f"Using API key auth ({api_key[:4]}...{api_key[-4:]})")
+        print("Using API key auth")
         print(f"  Address:   {address}")
         print(f"  Namespace: {namespace}")
         kwargs["api_key"] = api_key

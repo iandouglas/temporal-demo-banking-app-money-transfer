@@ -1,3 +1,6 @@
+> These updates are only for AWS re:Invent 2026. Do not merge this branch into the default branch.
+> Contact Ian Douglas or Tomas Josovsky with questions.
+
 # Banking Transfer Demo — Temporal Money Transfer
 
 A live, interactive demo showing how [Temporal](https://temporal.io) handles money transfers with durable execution. Send money through an iPhone-style banking app, watch the behind-the-scenes workflow execute in real time, and explore six different scenarios — from happy path to API downtime to human-in-the-loop approval.
